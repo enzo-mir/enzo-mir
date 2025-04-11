@@ -3,7 +3,7 @@
 #
 
 ### I'm a french dev based at [Toulouse](https://www.toulouse-tourisme.com/)
-# Hostinger [https://hostinger.fr?REFERRALCODE=59BMIRAGLS2I]
+# [Hostinger](https://hostinger.fr?REFERRALCODE=59BMIRAGLS2I)
 
 > [!NOTE]
 > - Front end website maker using `react` and `vite` since 2022
